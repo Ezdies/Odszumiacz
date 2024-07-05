@@ -5,7 +5,7 @@
   
 - Uruchom skrypt z terminala lub wiersza poleceń podając ścieżkę do pliku CSV:
 
-```py python3 ex5.py /path/to/your/szum1_1_500.csv```
+```python3 ex5.py /path/to/your/szum1_1_500.csv```
 
 ## Opis działania:
 Po uruchomieniu skryptu pojawi się menu, które pozwala użytkownikowi wybrać jedną z opcji:
@@ -14,7 +14,7 @@ Po uruchomieniu skryptu pojawi się menu, które pozwala użytkownikowi wybrać 
 - Zastosowanie średniej ruchomej.
 - Zastosowanie obu filtrów.
 - Zakończenie programu.
-- 
+  
 Program wczytuje plik, wyświetla sygnał, stosuje wybrany filtr i zapisuje przefiltrowany sygnał do pliku CSV.
 
 Następnie postępuj zgodnie z instrukcjami w menu.
